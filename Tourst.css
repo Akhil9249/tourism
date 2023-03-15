@@ -1,0 +1,179 @@
+body{
+    margin: 0;
+}
+
+#top1{
+    display: flex;
+    height: 30px;
+    color: rgb(139, 14, 91);
+    background-color: rgb(245, 172, 33);
+    margin: 0px;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    color: white; 
+}
+
+#phone{
+    justify-content: flex-end;
+}
+
+#top2{
+    display: flex;
+    height: 100px;
+    background-color:#659f02;
+    color:white;  
+    align-items: center;
+}
+.imgt{
+    margin-left: 30px;
+
+}
+
+.topnav a{
+text-decoration: none;
+color: white;
+}
+
+
+.topnav{
+
+    font-size: 13px;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+.home,.ktp,.contact,.dest,.hp{
+    margin-left: 30px;
+}
+.ce{
+    display: flex;
+    margin-left: 80px; 
+    font-weight: 700;
+    font-size: 13px;
+    
+ }
+ .ct{
+    margin-left: 20px; 
+    width: 150px;
+    height: 25px;
+    background-color: rgb(245, 172, 33);
+    text-align: center;
+    padding-top: 10px;
+    
+ }
+ 
+ .enf{
+    width: 150px;
+    height: 25px;
+    background-color: rgb(245, 172, 33);
+    text-align: center;
+    padding-top: 10px;
+    
+ }
+#mid{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   
+}
+
+#mid-left{
+
+    height: 4210px;
+    width:65%;
+ 
+}
+#box{
+    width: 100%;
+    height: 500px;
+    
+}
+
+#mid-write{
+    height: 4300px;
+    width: 30%; 
+}
+
+.p1{
+    margin-left: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  #im{
+    margin-top: 30px;
+    margin-left: 50px;
+  }
+
+  p{
+    margin: 0;
+  }
+
+  h1{
+    margin-left: 50px;
+  }
+
+.all{
+    border-left: 1px solid #659f02;
+    border-right: 1px solid #659f02;
+    border-top: 1px solid #659f02;
+    border-bottom: 3px solid #659f02;
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 20px;
+    color: #659f02;
+}
+
+#form{
+    padding-left: 50px;
+    width: 500px;
+    color: white;
+    
+}
+
+#formin{
+    height: 350px;
+    width: 300px;
+    background-color:rgb(76, 187, 23) ;
+    justify-content: center;
+    margin-left: 55px;
+}
+
+#mid-write a{
+    text-decoration: none;
+    color: #659f02;
+    }
+
+    footer{
+        width: 100%;
+        height: 370px;
+        background-image: linear-gradient(to right,#255a0f,#ad660a 72%) !important;
+        color: white;
+    }
+
+    #foot{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    h2{
+        color:rgb(245, 172, 33) ;
+    }
+
+    ul{
+        line-height:180%;
+    }
+
+    #footlast{
+        width: 100%;
+        height: 100px;
+        background-image: linear-gradient(to right,#255a0f,#ad660a 72%) !important;
+        text-align: center;
+    }
+ 
